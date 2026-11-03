@@ -21,6 +21,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| Gaussian Naive Bayes | Implement Gaussian Naive Bayes with class priors, per-feature Gaussian likelihoods, and log-probability predictions. | https://www.tensortonic.com/problems/ml-gaussian-naive-bayes |
 | KNN Classifier | Implement K-nearest neighbors classification using Euclidean distance, majority voting, and deterministic tie-breaking. | https://www.tensortonic.com/problems/ml-knn-classifier |
 | Lasso Regression | Implement Lasso regression with gradient descent, an L1 subgradient penalty on weights, and an unregularized bias. | https://www.tensortonic.com/problems/ml-lasso-regression |
 | Linear Regression from Scratch | Train linear regression from scratch with mean squared error gradients for weights and bias. | https://www.tensortonic.com/problems/ml-linear-regression-from-scratch |
