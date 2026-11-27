@@ -37,6 +37,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Random Forest from Scratch | Implement a random forest classifier with bootstrap sampling, random feature subsets at each CART split, and majority voting. | https://www.tensortonic.com/problems/ml-random-forest |
 | Ridge Regression | Train Ridge regression with gradient descent, L2-regularized weights, and an unregularized bias term. | https://www.tensortonic.com/problems/ml-ridge-regression |
 | Softmax Regression | Train multiclass softmax regression with stable probabilities, one-hot targets, cross-entropy gradients, and gradient descent. | https://www.tensortonic.com/problems/ml-softmax-regression |
+| Stacking Ensemble | Build a stacking classifier using cross-validated predictions from decision-stump and KNN base models to train a logistic meta-learner. | https://www.tensortonic.com/problems/ml-stacking |
 | SVM with Hinge Loss (SGD) | Train a linear SVM with sequential SGD updates on hinge loss, L2 weight regularization, and signed class predictions. | https://www.tensortonic.com/problems/ml-svm-hinge-sgd |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/santipourteau)
